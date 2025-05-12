@@ -1,10 +1,8 @@
-# EPL-HISTORICAL-DATA--TECH365
+# EPL-HISTORICAL-DATA REPORT--TECH365
 
-EPL HISTORICAL DATA REPORT
+# Project Scope
 
-PROJECT SCOPE
-
-GOAL
+# Goal
 
 •	Identify top-performing teams at home and away, and those consistently scoring high goals.
 
@@ -17,7 +15,7 @@ GOAL
 •	Rank teams by total home and away goals and determine the most carded teams annually
 
 
-PROCESS
+# Process
 
 1.	Data Cleaning and Preparation
    
@@ -63,7 +61,7 @@ Visualized the proportion of yellow cards vs. red cards.
 Ensured all calculated measures and visualizations dynamically responded to filters and slicers.
 
 
-INSIGHT QUESTIONS
+# Insight Questions
 
 •	Which team has the highest win home and away over the years?
 
@@ -86,10 +84,7 @@ INSIGHT QUESTIONS
 •	Average Shot on target per game?
 
 
-FINDINGS
-
-General Overview:
-
+# Findings
 Total Teams: 46 teams have participated in the Premier League from 2000 to 2024.
 
 Win Rate: The overall win rate is 45.97%, with an average of 2.71 goals scored per match.
@@ -114,7 +109,7 @@ Card Distribution:
 
 Majority of the cards (yellow and red) were issued for home games, with yellow cards making up 47.79% of total infractions.
 
-RECOMMENDATIONS:
+# Recommendations
 
 •	Teams like Arsenal and Newcastle should focus on improving discipline to reduce unnecessary cards, which can impact their performance.
 
@@ -123,5 +118,8 @@ RECOMMENDATIONS:
 •	Focus on promoting home games for top-performing teams like Arsenal and Man City to capitalize on their strong home goal-scoring record.
 
 •	The league can explore stricter measures or educational programs for reducing foul play, especially with such a high number of yellow cards.
+
+# Contact Me
+saheeddaniel15@gmail.com
 
 
